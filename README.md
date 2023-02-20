@@ -1,4 +1,12 @@
-# Hydrogen template: Hello World
+# [WIP] Vercel serverless deployment for Hydrogen v2 hello world on Remix.
+
+[Note] Not to be confused with edge functions and workers.
+
+Steps to deploy:
+1. Install vercel CLI
+2. `vercel` inside the repo
+
+## Hydrogen template: Hello World
 
 Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. This template contains a **minimal setup** of components, queries and tooling to get started with Hydrogen.
 
